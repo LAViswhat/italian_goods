@@ -1,0 +1,93 @@
+{
+  "client": {
+    "readMore": "Mehr lesen",
+    "add": "hinzufügen",
+    "added": "Hinzugefügt",
+    "addToast": "{item} wurde zu deinem Warenkorb hinzugefügt",
+    "send": "senden",
+    "subscribe": "abonnieren",
+    "cart": "Warenkorb",
+    "addToCart": "Zum Warenkorb",
+    "cartEmpty": "Es befinden sich keine weiteren Produkte in Ihrem Warenkorb",
+    "productDescription": "Produktbezeichnung",
+    "noInfo": "Es gibt keine Informationen",
+    "proceedCheckout": "weiter zur Kasse gehen",
+    "proceedPayment": "zur Zahlung übergehen",
+    "submitting": "Einreichung"
+  },
+  "menuLinks": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "products": "Unsere Produkte",
+    "getInTouch": "Kontakt aufnehmen"
+  },
+  "footer": {
+    "newsletter": "Newsletter",
+    "newsletterText": "Bleiben Sie auf dem Laufenden über das Neueste und Beste, erhalten Sie exklusive Rabatte für Newsletter-Abonnenten und viele Inspirationen",
+    "contacts": "Kontakte",
+    "phone": "Telefon",
+    "address": "Adresse",
+    "rights": "Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzbestimmungen"
+  },
+  "countries": {
+    "FR": "Frankreich",
+    "DE": "Deutschland",
+    "ES": "Spanien",
+    "US": "Vereinigte Staaten"
+  },
+  "checkoutFields": {
+    "email": "Email",
+    "state": "Staat/Region",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "address": "Adresse",
+    "apartment": "Wohnung, Appartement, usw. (optional)",
+    "city": "Stadt",
+    "zip": "Postleitzahl",
+    "phone": "Telefon"
+  },
+  "formFields": {
+    "fullname": "Vollständiger Name",
+    "message": "Nachricht"
+  },
+  "categories": {
+    "drinks": "Getränke",
+    "confectionery": "Süßwaren",
+    "grocery": "Lebensmittel",
+    "other": "Andere",
+    "wine": "Wein",
+    "liquer": "Likör",
+    "coffee": "Kaffee",
+    "nougat": "Nougat",
+    "cream": "Sahne",
+    "conserv": "Konservierung",
+    "sauce": "Soße",
+    "pasta": "Nudeln",
+    "oil": "Öl",
+    "pate": "Pastete",
+    "stoper": "Stopper",
+    "wineglass": "Weinglas",
+    "cup": "Tasse"
+  },
+  "checkout": {
+    "item": "Artikel",
+    "items": "Artikel",
+    "shipping": "Versand",
+    "subtotal": "Zwischensumme (inkl. MwSt.)",
+    "orderSummery": "Bestellübersicht",
+    "selectCountry": "Wählen Sie ein Land",
+    "terms": "Ich stimme den Nutzungsbedingungen zu und werde diese bedingungslos einhalten.",
+    "success": "Vielen Dank für Ihren Einkauf",
+    "delivery": "Ihre Bestellung ist unterwegs. Wir liefern sie in 3 bis 5 Werktagen.",
+    "orderNumber": "Ihre Bestellnummer ist ",
+    "empty": "Ihr Warenkorb ist leer",
+    "goShopping": "weiter einkaufen"
+  },
+  "validation": {
+    "required": "Dieses Feld ist erforderlich",
+    "email": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    "min": "Muss mindestens {length} Zeichen lang sein",
+    "terms": "Sie müssen den Bedingungen zustimmen"
+  }
+}

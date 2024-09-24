@@ -1,0 +1,93 @@
+{
+  "client": {
+    "readMore": "Read More",
+    "add": "Add",
+    "added": "Added",
+    "addToast": "{item} has been added to your cart",
+    "send": "send",
+    "subscribe": "subscribe",
+    "cart": "cart",
+    "addToCart": "add to cart",
+    "cartEmpty": "The are no more products in your cart",
+    "productDescription": "product description",
+    "noInfo": "There is no info",
+    "proceedCheckout": "proceed with checkout",
+    "proceedPayment": "proceed to payment",
+    "submitting": "submitting"
+  },
+  "menuLinks": {
+    "home": "Home",
+    "about": "About us",
+    "products": "Our Products",
+    "getInTouch": "Get In Touch"
+  },
+  "footer": {
+    "newsletter": "Newsletter",
+    "newsletterText": "Stay up to date on the latest and greatest, get special newsletter member discounts and lots of inspiration",
+    "contacts": "contacts",
+    "phone": "Phone",
+    "address": "Address",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy"
+  },
+  "countries": {
+    "FR": "France",
+    "DE": "Germany",
+    "ES": "Spain",
+    "US": "United States"
+  },
+  "checkoutFields": {
+    "email": "Email",
+    "state": "State/Region",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "address": "Address",
+    "apartment": "Apartment, suite, etc. (optional)",
+    "city": "City",
+    "zip": "Postal Code",
+    "phone": "Phone"
+  },
+  "formFields": {
+    "fullname": "Full name",
+    "message": "Message"
+  },
+  "categories": {
+    "drinks": "drinks",
+    "confectionery": "confectionery",
+    "grocery": "grocery",
+    "other": "other",
+    "wine": "wine",
+    "liquer": "liquer",
+    "coffee": "coffee",
+    "nougat": "nougat",
+    "cream": "cream",
+    "conserv": "conservation",
+    "sauce": "sauce",
+    "pasta": "pasta",
+    "oil": "oil",
+    "pate": "pate",
+    "stoper": "stoper",
+    "wineglass": "wineglass",
+    "cup": "cup"
+  },
+  "checkout": {
+    "item": "item",
+    "items": "items",
+    "shipping": "shipping",
+    "subtotal": "Subtotal (tax incl.)",
+    "orderSummery": "order summery",
+    "selectCountry": "Select a Country",
+    "terms": "I agree to the terms of service and will adhere to them unconditionally.",
+    "success": "Thank you for your purchase",
+    "delivery": "Your order is on its way. We'll deliver it in 3 to 5 business days.",
+    "orderNumber": "Your order number is ",
+    "empty": "Your cart is empty",
+    "goShopping": "continue shopping"
+  },
+  "validation": {
+    "required": "This field is required",
+    "email": "Please enter a valid email address",
+    "min": "Must be at least {length} characters long",
+    "terms": "You must agree to the terms"
+  }
+}
