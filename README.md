@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # it_gds_app
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# italian_goods
+>>>>>>> fb1044a5bea8d657b397035c7f2d32abf7a81c91
