@@ -6,7 +6,7 @@
       >
         <img
           class="mx-auto max-w-[65%] lg:max-w-full"
-          :src="`src/assets/img${imgURL}`"
+          :src="imgURL"
           :alt="title"
         />
       </div>
