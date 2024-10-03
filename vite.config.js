@@ -12,11 +12,11 @@ export default defineConfig({
     },
   },
   optimizeDeps: {
-    exclude: ["fs", "url", "path"],
+    exclude: ["fs", "path"],
   },
   build: {
     rollupOptions: {
-      external: ["url"],
+      external: [],
     },
   },
 });
