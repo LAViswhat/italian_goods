@@ -12,11 +12,11 @@ export default defineConfig({
     },
   },
   optimizeDeps: {
-    exclude: ["source-map-js", "fs", "url", "path"],
+    exclude: ["fs", "url", "path"],
   },
   build: {
     rollupOptions: {
-      external: ["source-map-js", "url"],
+      external: ["url"],
     },
   },
 });
