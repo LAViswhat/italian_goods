@@ -8,11 +8,7 @@
           >
             <img
               class="mx-auto"
-              :src="
-                product.imgURL
-                  ? `../dist/products/${product.imgURL}`
-                  : '../dist/products/product.png'
-              "
+              :src="product.imgURL ? product.imgURL : 'products/product.png'"
               :alt="product.name"
             />
           </div>
