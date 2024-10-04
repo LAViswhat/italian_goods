@@ -17,7 +17,11 @@ coverage
 /cypress/videos/
 /cypress/screenshots/
 
+# Temporary Vite configuration files
+vite.config.js.timestamp-1722866922642-49691e82d96e6.mjs
+
 # Editor directories and files
+.vscode
 .vscode/*
 !.vscode/extensions.json
 .idea
