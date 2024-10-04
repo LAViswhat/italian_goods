@@ -10,8 +10,8 @@
               class="mx-auto"
               :src="
                 product.imgURL
-                  ? `../src/assets/img${product.imgURL}`
-                  : '../src/assets/img/products/product.png'
+                  ? `../dist/products/${product.imgURL}`
+                  : '../dist/products/product.png'
               "
               :alt="product.name"
             />

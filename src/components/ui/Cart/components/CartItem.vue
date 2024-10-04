@@ -3,7 +3,7 @@
     class="flex flex-row flex-nowrap justify-center items-center mb-4 border-b-2 pb-4"
   >
     <div class="flex justify-center items-end basis-4/12 px-2">
-      <img class="mx-auto" :src="`/src/assets/img${imgURL}`" :alt="title" />
+      <img class="mx-auto" :src="imgURL" :alt="title" />
     </div>
     <div class="flex flex-col basis-8/12">
       <RouterLink :to="{ name: 'product', params: { productname: title } }">
