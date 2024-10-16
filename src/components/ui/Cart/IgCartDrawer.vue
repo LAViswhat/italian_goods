@@ -82,7 +82,7 @@ const removeFromCart = (item) => {
   transform: translate(25%, 100%);
 }
 
-@media (min-width: 768px) {
+@media (max-width: 767.999px) {
   .p-overlaybadge :deep(.p-badge) {
     outline-color: transparent;
   }
