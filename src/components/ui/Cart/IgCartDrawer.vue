@@ -3,7 +3,7 @@
     v-if="totalQuantity > 0"
     :value="totalQuantity"
     @click="visibleRight = true"
-    class="-mt-[6px] cursor-pointer"
+    class="mt-[6px] cursor-pointer"
   >
     <img src="@/assets/icons/cart.png" alt="cart" class="max-w-11" />
   </OverlayBadge>
@@ -78,6 +78,7 @@ const removeFromCart = (item) => {
 </script>
 <style scoped>
 .p-overlaybadge :deep(.p-badge) {
+  border-radius: 50%;
   transform: translate(25%, 100%);
 }
 
